@@ -1,0 +1,1 @@
+Audio wave files needs to be a sampling rate of 31468 and 16-bit unassigned (differing off).
